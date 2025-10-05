@@ -99,4 +99,3 @@ Kaggle - Soil Classification Competition
 Annam.ai - IIT Ropar AI Research Center
 
 
-Let me know if you'd like a [version with GitHub badges](f), [interactive Colab links](f), or [a contribution guide](f) for this README.
